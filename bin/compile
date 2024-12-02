@@ -16,7 +16,7 @@ CACHE_FILE="$CACHE_DIR/ghostscript-$GS_VERSION.tar.gz"
 
 if [ ! -f $CACHE_FILE ]; then
   # install imagemagick
-  GS_FILE="ghostscript-$GS_VERSION.tar.xz"
+  GS_FILE="ghostscript-$GS_VERSION.tar.gz"
   GS_DIR="ghostscript-$GS_VERSION"
   GS_URL="https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$GS_VERSION_SHORT/$GS_FILE"
 
