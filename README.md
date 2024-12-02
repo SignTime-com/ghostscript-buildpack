@@ -1,6 +1,6 @@
 # Heroku Buildpack for Ghostscript
 
-Installs Ghostscript 9.55.0 on Heroku
+Installs Ghostscript 10.04.0 on Heroku
 
 ## Install
 
